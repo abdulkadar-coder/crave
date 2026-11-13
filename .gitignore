@@ -1,0 +1,7 @@
+﻿.preview/
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
